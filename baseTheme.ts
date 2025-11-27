@@ -1,5 +1,6 @@
 import { createTheme, ThemeOptions } from '@mui/material/styles';
-import CosmosTheme from './tokens/ThemeCOSMOS';
+//import CosmosTheme from './tokens/ThemeCOSMOS';
+import CosmosTheme from './tokens/themeTokensCosmos.json';
 
 /**
  * TEMA BASE - CONFIGURACIONES COMUNES PARA TODAS LAS MARCAS

@@ -1,7 +1,9 @@
 import { createTheme, ThemeOptions } from '@mui/material/styles';
 import { deepmerge } from '@mui/utils';
 import { baseThemeConfig } from './baseTheme';
-import CosmosTheme from './tokens/ThemeCOSMOS';
+//import CosmosTheme from './tokens/ThemeCOSMOS';
+import CosmosTheme from './tokens/themeTokensCosmos.json';
+
 
 /**
  * TEMA COSMOS DARK - CONFIGURACIONES ESPECÍFICAS DE LA MARCA COSMOS
