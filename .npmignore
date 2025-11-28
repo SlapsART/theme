@@ -1,5 +1,4 @@
 # .npmignore
-src/
 tsconfig.json
 *.log
 node_modules/
