@@ -30,7 +30,7 @@ export const cosmosLightConfig: ThemeOptions = {
       700: CosmosTheme['brand-colors'].primary.light[700].$value,
       800: CosmosTheme['brand-colors'].primary.light[800].$value,
       900: CosmosTheme['brand-colors'].primary.light[900].$value,
-      main: CosmosTheme['brand-colors'].primary.light[500].$value,
+      main: CosmosTheme['brand-colors'].red[500].$value,
       light: CosmosTheme['brand-colors'].primary.light[400].$value,
       dark: CosmosTheme['brand-colors'].primary.light[900].$value,
       contrastText: CosmosTheme.palette.primary.contrastText.$value.Light,
