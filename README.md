@@ -1,18 +1,18 @@
-# @tu-org/figma-make-theme
+# sincotheme
 
 Sistema de theming Cosmos para Figma Make basado en Material-UI.
 
 ## Instalación
 
 \`\`\`bash
-npm install @tu-org/figma-make-theme @mui/material @emotion/react @emotion/styled
+npm install @sincotheme @mui/material @emotion/react @emotion/styled
 \`\`\`
 
 ## Uso
 
 \`\`\`typescript
 import { ThemeProvider } from '@mui/material/styles';
-import { baseTheme, themeCosmosLight, themeCosmosDark } from '@tu-org/figma-make-theme';
+import { baseTheme, themeCosmosLight, themeCosmosDark } from '@sincotheme';
 
 function App() {
   return (
