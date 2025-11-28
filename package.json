@@ -1,5 +1,5 @@
 {
-  "name": "@tu-org/figma-make-theme",
+  "name": "sincotheme",
   "version": "1.0.0",
   "description": "Sistema de theming Cosmos para Figma Make con MUI",
   "main": "dist/index.js",
@@ -21,7 +21,7 @@
     "cosmos",
     "design-system"
   ],
-  "author": "Tu Nombre",
+  "author": "Christian Aldana",
   "license": "MIT",
   "peerDependencies": {
     "@mui/material": "^5.0.0 || ^6.0.0",
@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tu-org/figma-make-theme.git"
+    "url": "https://github.com/SlapsART/theme.git"
   },
   "publishConfig": {
     "access": "public"
