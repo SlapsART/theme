@@ -1,6 +1,6 @@
 {
   "name": "sincotheme",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Sistema de theming Cosmos para Figma Make con MUI",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
