@@ -1,0 +1,9 @@
+# .npmignore
+src/
+tsconfig.json
+*.log
+node_modules/
+.git/
+.gitignore
+package-lock.json
+```
