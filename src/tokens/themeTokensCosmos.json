@@ -1767,11 +1767,11 @@
         },
         "fontSize": {
           "$type": "number",
-          "$value": 40
+          "$value": 90
         },
         "fontWeight": {
           "$type": "number",
-          "$value": 400
+          "$value": 800
         },
         "letterSpacing": {
           "$type": "number",
